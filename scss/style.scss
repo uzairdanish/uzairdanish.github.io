@@ -81,7 +81,7 @@ p {
 
 .t-new, .t-company, .t-website {
     
-    //border: 1px solid blue;
+    border: 1px solid blue;
     border-bottom: none;
     margin-bottom: -30px;
     padding: none;
@@ -317,6 +317,7 @@ ul {
     margin: 65px;
     top: 1px;
     position: absolute;
+    overflow-y: auto;
     z-index: 1;
 }
 
@@ -334,6 +335,7 @@ ul {
     margin: 470px -250px;
     width: 100%;
     position: absolute;
+    overflow-y: auto;
     z-index: 1;
 }
 
