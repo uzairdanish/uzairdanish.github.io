@@ -217,7 +217,7 @@ ul {
   margin: 65px;
   top: 1px;
   position: absolute;
-  overflow: scroll;
+  overflow-y: auto;
   z-index: 1; }
 
 .shavings img {
@@ -228,7 +228,7 @@ ul {
   margin: 470px -250px;
   width: 100%;
   position: absolute;
-  overflow: scroll;
+  overflow-y: auto;
   z-index: 1; }
 
 .chisel img {
